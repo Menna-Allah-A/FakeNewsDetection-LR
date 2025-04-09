@@ -1,6 +1,6 @@
 # Fake News Detection Using Logistic Regression | NLP & Machine Learning
 
-🔍 Built a logistic regression model to classify news articles as "Real" or "Fake" using NLP techniques.
+🔍 Built a logistic regression model to classify news articles as "Real" or "Fake" using **NLP techniques**.
 
 📊 **Key Steps**:
 
